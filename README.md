@@ -1,8 +1,9 @@
-# my-first-attempt
-#BASİT HESAP MAKİNESİ
--Bu proje basit bir hesap makinesi uygulamasıdır.
-Özellikleri:
--TOPLAMA
--ÇIKARMA
--BÖLME
--ÇARPMA
+# BASİT HESAP MAKİNESİ
+
+Bu proje basit bir hesap makinesi uygulamasıdır.
+
+## Özellikler
+- TOPLAMA
+- ÇIKARMA
+- BÖLME
+- ÇARPMA
