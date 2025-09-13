@@ -19,4 +19,4 @@ def bolme(a, b):
 print(toplama(5, 3))
 print(cikarma(5, 3))
 print(carpma(5, 3))
-print(bolme(5, 0))
+print(bolme(5, 1))
