@@ -1,2 +1,8 @@
 # my-first-attempt
-ilk denemem bir hesap makinesi.
+#BASİT HESAP MAKİNESİ
+-Bu proje basit bir hesap makinesi uygulamasıdır.
+Özellikleri:
+-TOPLAMA
+-ÇIKARMA
+-BÖLME
+-ÇARPMA
